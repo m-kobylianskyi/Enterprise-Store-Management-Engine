@@ -1,0 +1,5 @@
+package com.github.m_kobylianskyi.enterprise_store_management_engine.models;
+
+public enum SimEventType {
+    CUSTOMER_ARRIVED,SALE_COMPLETED,SALE_CANCELLED,PURCHASE_ORDERED,PURCHASE_RECEIVED,STOCK_LOW,SHIFT_STARTED,SHIFT_ENDED,PAYROLL_RUN,POINTS_EXPIRED,PRICE_CHANGED
+}
